@@ -1,0 +1,5 @@
+int Play(int number, int a, int b){
+    int cnt = 0, x = MAXINT;
+    cout << "Теперь пытайтесь отгадать число в диапозоне от " << a << " до " << b << ":" << endl;
+    return cnt;
+}
